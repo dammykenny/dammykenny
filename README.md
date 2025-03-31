@@ -18,8 +18,8 @@ A static e-commerce site with product listings, cart, Stripe checkout (test mode
 - Mastering Node.js for full-stack development
 
 ## Connect With Me
-- 📧 [dammykenny.dev@gmail.com](mailto:dammykenny.dev@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/dammykenny)  
+- 📧 [dammykenny97@gmail.com](mailto:dammykenny97@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayoolaoluwadamilola?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 💻 Open to freelance gigs or junior dev roles!
 
 ## Fun Fact
